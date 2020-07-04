@@ -5,7 +5,7 @@ using System.Web;
 
 namespace test.Data
 {
-    public class DataContext : DbContext
+    public class DataContext
     {
     }
 }
